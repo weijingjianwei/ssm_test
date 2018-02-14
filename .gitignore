@@ -1,0 +1,22 @@
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+classes/
+.mvn/
+mvnw
+mvnw.cmd
+
+
+/data/
+*.log
