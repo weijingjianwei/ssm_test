@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>查询商品列表</title>
+<title>查询商品列表aaaaaa</title>
 </head>
 <body> 
 <form action="${pageContext.request.contextPath }/list.action" method="post">
